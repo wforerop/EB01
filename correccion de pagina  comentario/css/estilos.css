@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #798e94;
+}
+
+ body{ 
+	background-repeat: no-repeat;
+	background-size: 1380px;
+	}
+	#id_tabla{
+	text-align: center;
+	width:100%;
+	border-radius: 10px;
+}
